@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a989919-5967-44a7-9c4d-4fd0068beea2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ogB8iqXkjcGnUTyhksMjJD1MjA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="go" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/package/main/node_modules/typescript/lib" />
+  </component>
+  <component name="RunManager" selected="npm.Angular CLI Server">
+    <configuration name="E2E Tests (project)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/package/starterkit/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package/main/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Angular Application" />
+      <item itemvalue="npm.Angular CLI Server" />
+      <item itemvalue="Protractor.E2E Tests (project)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a989919-5967-44a7-9c4d-4fd0068beea2" name="Default Changelist" comment="" />
+      <created>1613698195538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613698195538</updated>
+      <workItem from="1613698198133" duration="20000" />
+      <workItem from="1613698285166" duration="29000" />
+      <workItem from="1613698373628" duration="2000" />
+      <workItem from="1613698421772" duration="4205000" />
+      <workItem from="1613776287924" duration="14693000" />
+      <workItem from="1613872585103" duration="4721000" />
+      <workItem from="1613897572694" duration="15000" />
+      <workItem from="1613897758435" duration="12119000" />
+      <workItem from="1614560883318" duration="14550000" />
+      <workItem from="1617389457113" duration="809000" />
+      <workItem from="1618609172334" duration="184000" />
+      <workItem from="1619048379154" duration="311000" />
+      <workItem from="1623864301785" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613777314667">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="209" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.721@0.23.1280.721" timestamp="1613777314667" />
+    <state x="321" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614902239944">
+      <screen x="0" y="23" width="1280" height="721" />
+    </state>
+    <state x="321" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.721@0.23.1280.721" timestamp="1614902239944" />
+    <state x="321" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.723@0.23.1280.723" timestamp="1613698463873" />
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom" timestamp="1617401500205">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1617401500205" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1613896527280" />
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1614901399215" />
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1615191278970" />
+    <state width="1238" height="211" key="GridCell.Tab.0.center" timestamp="1617401500203">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1617401500203" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1613896527279" />
+    <state width="1238" height="178" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1614901399208" />
+    <state width="1238" height="178" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1615191278970" />
+    <state width="1238" height="211" key="GridCell.Tab.0.left" timestamp="1617401500203">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1617401500203" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1613896527279" />
+    <state width="1238" height="178" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1614901399203" />
+    <state width="1238" height="178" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1615191278969" />
+    <state width="1238" height="211" key="GridCell.Tab.0.right" timestamp="1617401500204">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="211" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1617401500204" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1613896527280" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1614901399213" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1615191278970" />
+    <state x="8" y="46" key="new project wizard" timestamp="1613895524078">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="8" y="46" key="new project wizard/0.23.1280.716@0.23.1280.716" timestamp="1613895524078" />
+    <state x="8" y="46" key="new project wizard/0.23.1280.721@0.23.1280.721" timestamp="1613777654869" />
+  </component>
+</project>
